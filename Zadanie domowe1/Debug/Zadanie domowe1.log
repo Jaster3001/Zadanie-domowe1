@@ -1,0 +1,4 @@
+﻿  Zadanie domowe1.cpp
+C:\Users\Jaster3001\source\repos\Zadanie domowe1\Zadanie domowe1\Zadanie domowe1.cpp(6,1): warning C4326: zwracany typ "main" powinien być "int" zamiast "void"
+C:\Users\Jaster3001\source\repos\Zadanie domowe1\Zadanie domowe1\Zadanie domowe1.cpp(14,12): warning C4101: "e": lokalna zmienna, do której nie istnieje odwołanie
+  Zadanie domowe1.vcxproj -> C:\Users\Jaster3001\source\repos\Zadanie domowe1\Debug\Zadanie domowe1.exe
