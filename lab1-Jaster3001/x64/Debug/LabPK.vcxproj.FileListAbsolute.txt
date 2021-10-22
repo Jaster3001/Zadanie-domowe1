@@ -1,0 +1,2 @@
+C:\Users\Student\source\repos\IP-Programowanie\lab1-Jaster3001\x64\Debug\LabPK.exe
+C:\Users\Student\source\repos\IP-Programowanie\lab1-Jaster3001\x64\Debug\LabPK.pdb
